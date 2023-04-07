@@ -1,5 +1,4 @@
 # Ali İhsan Cengiz'in Vize Proje Ödevi
-Ben kendim test ettiğimde her şey çalışıyordu  
 Gmail'i kullanmak için Google Hesap'tan Uygulama Şifresi alıp onu kullanmak gerekiyor (Sadece 2-adımlı doğrulamalı cihazlardan alınıyor)  
 Numaram: 22120205021
 
