@@ -1,4 +1,5 @@
 # Ali İhsan Cengiz'in Vize Proje Ödevi
+UPDATE: Gmail uygulama şifresini kaldırdım Classroom'da söylemişsiniz (artık mail atamazlar)  
 Lib dosyasına gerekli dosyaları ekledim, dosyanın çalışması için Intelijj IDEA'da projeye sağ tıklayıp "Open Module Setting"den "Libraries"i seçip ordan ekleyebilirsiniz   
 
 Gmail'i kullanmak için Google Hesap'tan Uygulama Şifresi alıp onu kullanmak gerekiyor (Sadece 2-adımlı doğrulamalı cihazlardan alınıyor)  
